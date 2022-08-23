@@ -1,5 +1,5 @@
 # machine-learning
-UHM ICS 435
+UHM CS 435
 
 1. [Project] Predicting the risk of Covid-19 death from basic demographic information with gradient boosting. 0.97746 (9/48) auroc score on withheld test set. 
 2. [HW4] Building an artificial neural network from scratch. Evaluated on the Fashion MNIST dataset.
